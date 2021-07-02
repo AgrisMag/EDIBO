@@ -1,3 +1,7 @@
 ## bubble_sort
 
-Sorting algorithm
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+## diamond
+
+With nested for loop creates diamond pattern in terminal
